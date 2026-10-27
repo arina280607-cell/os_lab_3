@@ -1,0 +1,8 @@
+*.o
+/lab3
+/lab3_check
+/lab3_tsan
+/main_initial.c.txt
+~$*.docx
+.DS_Store
+Thumbs.db

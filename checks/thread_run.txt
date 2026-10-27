@@ -1,0 +1,2 @@
+PID=13218 rows=2000 cols=2000 K=100 thread_limit=4 threads_used=4
+Elapsed: 1.741445 seconds
